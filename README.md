@@ -34,7 +34,7 @@ new TurhanOz\DragDropBundle\TurhanOzDragDrop2Bundle(),
 
 - finally, add routes into app/config/routing.yml
 ```
-turhan_oz_drag_drop:
+turhan_oz_drag_drop2:
     resource: "@TurhanOzDragDrop2Bundle/Controller"
     type:     annotation
     prefix:   /
