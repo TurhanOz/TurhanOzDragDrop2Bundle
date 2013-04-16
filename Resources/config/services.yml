@@ -1,0 +1,7 @@
+parameters:
+#    turhan_oz_drag_drop2.example.class: TurhanOz\DragDrop2Bundle\Example
+
+services:
+#    turhan_oz_drag_drop2.example:
+#        class: %turhan_oz_drag_drop2.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
